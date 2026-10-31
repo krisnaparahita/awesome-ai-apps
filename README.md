@@ -263,6 +263,7 @@ Awesome AI Apps is a hands-on collection of projects, tutorials and recipes for 
 - [Resume Optimizer](rag_apps/resume_optimizer): AI-powered resume optimization and enhancement tool
 - [Trustworthy RAG](rag_apps/trustworthy_rag): Citation verification, per-claim evidence checks, and hallucination scoring for RAG answers
 - [Video Q&A with Timestamp Citations](rag_apps/video_rag): Multimodal video retrieval with Gemini embeddings, Weaviate, Nebius, and clickable timestamp citations
+- [Weaviate Enterprise RAG Agent](rag_apps/weaviate_enterprise_rag_agent): Enterprise document search with Weaviate hybrid retrieval, metadata filters, relevance scores, and cited answers
 - [Web-Augmented Agentic RAG](rag_apps/agentic_rag_with_web_search): Advanced RAG with CrewAI, Qdrant, and Exa for hybrid search capabilities
 
 ### 🔬 Advanced Agents
