@@ -1,0 +1,15 @@
+[project]
+name = "weaviate-enterprise-rag-agent"
+version = "0.1.0"
+description = "Enterprise RAG with Weaviate hybrid search, metadata filters, and cited answers"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.43.0",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.40.0",
+    "weaviate-client>=4.24.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0.0"]
