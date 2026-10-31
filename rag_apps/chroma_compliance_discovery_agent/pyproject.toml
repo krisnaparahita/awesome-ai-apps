@@ -1,0 +1,19 @@
+[project]
+name = "chroma-compliance-discovery-agent"
+version = "0.1.0"
+description = "Compliance discovery with Chroma and LlamaIndex: cited obligations and evidence gaps"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chromadb>=1.5.0",
+    "llama-index-core>=0.14.25",
+    "llama-index-embeddings-nebius>=0.6.0",
+    "llama-index-llms-nebius>=0.4.0",
+    "llama-index-vector-stores-chroma>=0.6.0",
+    "pydantic>=2.8.0",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.40.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0.0"]
