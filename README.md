@@ -248,6 +248,7 @@ Awesome AI Apps is a hands-on collection of projects, tutorials and recipes for 
 
 - [Agentic RAG with Agno and GPT-5](rag_apps/agentic_rag): Agentic RAG implementation with Agno and GPT-5
 - [Agentic Typed RAG with LlamaIndex](rag_apps/agentic_typed_rag_llamaindex): Typed, citation-verified RAG with structured answers, local document parsing, and deterministic refusal for weak evidence
+- [Chroma Compliance Discovery Agent](rag_apps/chroma_compliance_discovery_agent): Compliance Q&A over policies and audit evidence with Chroma and LlamaIndex, cited obligations, and evidence gap detection
 - [Codebase Q&A RAG](rag_apps/chat_with_code): Conversational code explorer and documentation assistant
 - [Enterprise Contextual RAG](rag_apps/contextual_ai_rag): Enterprise-level RAG with managed datastores and quality evaluation
 - [Gemma 3 Document OCR](rag_apps/gemma_ocr/): OCR-based document and image processor using the Gemma 3 model
